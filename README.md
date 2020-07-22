@@ -1,4 +1,5 @@
 # CloudStore - 云储存集成
+# 源 https://github.com/TruthHun/CloudStore 使用起来七牛源老报错 这里去掉了七牛存储
 
 国内各大云存储服务接口集成，让云存储使用更方便简单。
 
